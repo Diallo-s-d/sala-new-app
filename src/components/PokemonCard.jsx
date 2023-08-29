@@ -11,7 +11,8 @@
 */
 
 function PokemonCard ({name, imgSrc}) {
-    
+ 
+   
   return (
       <div>
          <figure> {props.pokemon.imgSrc === undefined ? "???" : <img src= {props.pokemon.imgSrc} alt={props.pokemon.name}/>}
