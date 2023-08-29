@@ -22,6 +22,7 @@ function PokemonCard ({name, imgSrc}) {
     );
   }
   
+  
   export default PokemonCard;
 
   
