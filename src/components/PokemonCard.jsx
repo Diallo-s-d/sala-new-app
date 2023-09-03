@@ -23,6 +23,7 @@ return (
 </div>
 );}
 
+
 export default PokemonCard;
   
 
